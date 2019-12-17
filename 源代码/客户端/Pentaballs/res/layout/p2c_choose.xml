@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/yellow"/>
+
+    <Button
+        android:id="@+id/bt_Hardlevel"
+        android:textColor="#FF4081"
+        android:background="#303F9F"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hard_mode" />
+
+    <Button
+        android:id="@+id/bt_MiddleLevel"
+        android:textColor="#FF4081"
+        android:background="#303F9F"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/middle_mode" />
+
+    <Button
+        android:id="@+id/bt_SimpleLevel"
+        android:textColor="#FF4081"
+        android:background="#303F9F"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/simple_mode" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/yellow"/>
+
+    <Button
+        android:id="@+id/bt_chooseBlack"
+        android:textColor="#FF4081"
+        android:background="#303F9F"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/i_choose_black" />
+
+    <Button
+        android:id="@+id/bt_chooseWhite"
+        android:textColor="#FF4081"
+        android:background="#303F9F"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/i_choose_white" />
+
+</LinearLayout>

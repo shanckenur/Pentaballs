@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pentaballs</string>
+    <string name="sure_to_exit">sure to exit?</string>
+    <string name="exit_no">NO</string>
+    <string name="exit_yes">YES</string>
+    <string name="pentaballs">Pentaballs</string>
+    <string name="human_to_computer">Human to Computer</string>
+    <string name="human_to_human">Human to Human</string>
+    <string name="on_line_game">On-Line Game</string>
+    <string name="restart_game">restart game</string>
+    <string name="new_person_vs_person">new person VS person</string>
+    <string name="new_person_vs_computer">new person VS computer</string>
+    <string name="new_online_game">new online-game</string>
+    <string name="create">create</string>
+    <string name="room">room</string>
+    <string name="or">or</string>
+    <string name="join_in">Join in</string>
+    <string name="onLine_agent">Create a new room Or Join in an exist room to start a Game with your Friend</string>
+    <string name="onLine_exit">exit</string>
+    <string name="hard_mode">Hard mode</string>
+    <string name="middle_mode">Middle mode</string>
+    <string name="simple_mode">Simple mode</string>
+    <string name="i_choose_black">i choose black</string>
+    <string name="i_choose_white">i choose white</string>
+    <string name="introduction">Introduction</string>
+    <string name="author">Author</string>
+    <string name="snnu_cmz">SNNU cmz</string>
+    <string name="snnu_zhh">SNNU zhh</string>
+    <string name="introduction_ok">OK</string>
+    <string name="text_psw">psw</string>
+    <string name="input_psw">psw</string>
+    <string name="switch_state">password?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+</resources>

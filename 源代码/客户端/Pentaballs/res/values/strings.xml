@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Pentaballs</string>
+    <string name="sure_to_exit">确认退出？</string>
+    <string name="exit_no">否</string>
+    <string name="exit_yes">是</string>
+    <string name="pentaballs">旋转五子棋</string>
+    <string name="human_to_computer">人机对战</string>
+    <string name="human_to_human">双人对战</string>
+    <string name="on_line_game">联网对战</string>
+    <string name="restart_game">重新开始</string>
+    <string name="new_person_vs_person">双人对战</string>
+    <string name="new_person_vs_computer">人机对战</string>
+    <string name="new_online_game">联网对战</string>
+    <string name="create">创建</string>
+    <string name="room">房间号</string>
+    <string name="or">或</string>
+    <string name="join_in">加入</string>
+    <string name="onLine_agent">创建一个新房间或加入已有房间来和朋友们对战吧~</string>
+    <string name="onLine_exit">退出</string>
+    <string name="hard_mode">困难模式</string>
+    <string name="middle_mode">中等模式</string>
+    <string name="simple_mode">简单模式</string>
+    <string name="i_choose_black">选择黑棋</string>
+    <string name="i_choose_white">选择白棋</string>
+    <string name="introduction">说明</string>
+    <string name="author">作者</string>
+    <string name="snnu_cmz">SNNU 陈明哲</string>
+    <string name="snnu_zhh">SNNU 张海浩</string>
+    <string name="introduction_ok">知道了</string>
+    <string name="text_psw">密码</string>
+    <string name="input_psw">密码</string>
+    <string name="switch_state">对战房间是否加密</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+</resources>

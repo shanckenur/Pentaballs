@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/bt_newGame"
+        android:textColor="#FF4081"
+        android:background="#303F9F"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/restart_game" />
+
+    <Button
+        android:id="@+id/bt_toPerson"
+        android:textColor="#FF4081"
+        android:background="#303F9F"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/new_person_vs_person" />
+
+    <Button
+        android:id="@+id/bt_toComputer"
+        android:textColor="#FF4081"
+        android:background="#303F9F"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/new_person_vs_computer" />
+
+    <Button
+        android:id="@+id/bt_onLine"
+        android:textColor="#FF4081"
+        android:background="#303F9F"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/new_online_game" />
+
+</LinearLayout>
